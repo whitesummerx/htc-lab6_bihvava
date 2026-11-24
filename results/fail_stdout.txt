@@ -1,0 +1,24 @@
+[launcher] attempt 0 failed (exit codes [1, 1, 1])
+===== attempt 0 rank 0 =====
+[W1124 20:37:35.000000000 socket.cpp:764] [c10d] The client socket has failed to connect to [whitesummer]:29500 (system error: 10049 - unknown error).
+
+===== attempt 0 rank 1 =====
+[W1124 20:37:35.000000000 socket.cpp:764] [c10d] The client socket has failed to connect to [whitesummer]:29500 (system error: 10049 - unknown error).
+
+===== attempt 0 rank 2 =====
+[W1124 20:37:35.000000000 socket.cpp:764] [c10d] The client socket has failed to connect to [whitesummer]:29500 (system error: 10049 - unknown error).
+[rank2] simulated failure at start of step 50
+
+===== attempt 1 rank 0 =====
+[W1124 20:37:52.000000000 socket.cpp:764] [c10d] The client socket has failed to connect to [whitesummer]:29500 (system error: 10049 - unknown error).
+[rank0] resumed from checkpoint: step=40 epoch=0 step_in_epoch=40
+[rank0] steps=216 ACC=0.8026 AUC=0.9760 max_loss_last_epoch=0.542521059513092
+
+===== attempt 1 rank 1 =====
+[W1124 20:37:52.000000000 socket.cpp:764] [c10d] The client socket has failed to connect to [whitesummer]:29500 (system error: 10049 - unknown error).
+
+===== attempt 1 rank 2 =====
+[W1124 20:37:52.000000000 socket.cpp:764] [c10d] The client socket has failed to connect to [whitesummer]:29500 (system error: 10049 - unknown error).
+
+
+--- stderr ---

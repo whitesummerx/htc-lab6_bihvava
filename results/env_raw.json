@@ -1,0 +1,9 @@
+{
+ "os": "Windows-11-10.0.26300-SP0",
+ "python": "3.14.5",
+ "torch": "2.15.0+cpu",
+ "logical": 6,
+ "cpu": "Intel(R) Pentium(R) Gold 8505",
+ "phys": 5,
+ "ram_gb": 23.7
+}
